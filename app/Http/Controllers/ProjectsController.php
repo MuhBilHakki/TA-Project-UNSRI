@@ -20,4 +20,5 @@ class ProjectsController extends Controller
         // return view( view: 'projects.index', data: compact('posts'));
         return view( view: 'projects.index', data: compact('first'));
     }
+    
 }
