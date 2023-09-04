@@ -17,5 +17,6 @@ class Mahasiswa extends Model
         'password',
         'jurusan'
     ];
+    
 
 }
